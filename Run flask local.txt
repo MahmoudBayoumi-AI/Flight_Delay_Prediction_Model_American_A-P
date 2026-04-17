@@ -1,0 +1,5 @@
+to run the fast api local run this on cmd
+
+1- pip install fastapi uvicorn scikit-learn joblib
+
+2- uvicorn main:app --reload
